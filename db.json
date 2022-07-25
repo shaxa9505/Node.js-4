@@ -1,0 +1,36 @@
+{
+    "people": [
+        {
+            "name" : "SHohruh",
+            "surname" : "khon",
+            "jinsi" : "male",
+            "age" : 26,
+            "photo" : "https://i.pinimg.com/originals/61/2f/da/612fdaf59ea3daa811b53682d43033a3.jpg",
+            "phone": 7777777
+        },
+        {
+            "name" : "SHohruh",
+            "surname" : "khon",
+            "jinsi" : "male",
+            "age" : 26,
+            "photo" : "https://i.pinimg.com/originals/61/2f/da/612fdaf59ea3daa811b53682d43033a3.jpg",
+            "phone": 8888888
+        },
+        {
+            "name" : "SHohruh",
+            "surname" : "khon",
+            "jinsi" : "male",
+            "age" : 26,
+            "photo" : "https://i.pinimg.com/originals/61/2f/da/612fdaf59ea3daa811b53682d43033a3.jpg",
+            "phone": 9999999
+        },
+        {
+            "name" : "SHohruh",
+            "surname" : "khon",
+            "jinsi" : "male",
+            "age" : 26,
+            "photo" : "https://i.pinimg.com/originals/61/2f/da/612fdaf59ea3daa811b53682d43033a3.jpg",
+            "phone": 9999999
+        }
+    ]
+}
